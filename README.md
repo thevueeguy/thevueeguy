@@ -20,7 +20,7 @@
 
 <br>
 
-(https://github-readme-stats.vercel.app/api?username=thevueeguy&show_icons=true&count_private=true&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thevueeguy&show_icons=true&count_private=true&include_all_commits=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thevueeguy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
