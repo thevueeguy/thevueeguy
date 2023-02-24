@@ -20,9 +20,9 @@
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shashank2906&show_icons=true&count_private=true&include_all_commits=true)
+(https://github-readme-stats.vercel.app/api?username=thevueeguy&show_icons=true&count_private=true&include_all_commits=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank2906&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thevueeguy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
 
