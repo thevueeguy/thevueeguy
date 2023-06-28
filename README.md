@@ -1,6 +1,6 @@
 ## नमस्ते (Namaste), I am [Sharad Kushwah](https://reactguy.me/)
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
