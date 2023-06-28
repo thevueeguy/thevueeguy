@@ -1,5 +1,5 @@
 
-<h5 align="center">नमस्ते (Namaste), I am Sharad Kushwah</h5>
+<h3 align="center">नमस्ते (Namaste), I am Sharad Kushwah</h3>
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
