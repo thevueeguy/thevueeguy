@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Sharad.👋</h2>
+## नमस्ते (Namaste), I am [Sharad Kushwah](https://reactguy.me/)
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
