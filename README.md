@@ -1,11 +1,11 @@
 ![programmer-focused-on-code](https://github.com/thevueeguy/thevueeguy/assets/78133036/1a501bde-3bcb-4e88-b11f-4dae40a6d4af)
 
-<h3 align="center">नमस्कारम (Namaskaram), I am <a href="https://reactguy.me" target="_blank">Sharad Kushwah</a></h3>
+<h3 align="center">नमस्कारम (Namaskaram), I am <a href="https://sharad.tech" target="_blank">Sharad Kushwah</a></h3>
 
 <img src="https://komarev.com/ghpvc/?username=thevueeguy&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" />
 
 ![GitHub followers](https://img.shields.io/github/followers/thevueeguy?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://reactguy.me/)](https://reactguy.me/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://reactguy.me/)](https://sharad.tech/)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:sharadrkushwah@gmail.com)
 
 
