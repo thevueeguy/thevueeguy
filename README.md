@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=thevueeguy&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" />
 
 ![GitHub followers](https://img.shields.io/github/followers/thevueeguy?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://reactguy.me/)](https://sharad.tech/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://reactguy.me/)](https://sharad.blog/)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:sharadrkushwah@gmail.com)
 
 
