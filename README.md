@@ -1,4 +1,4 @@
-<h3 align="center">नमस्कारम (Namaskaram), I am <a href="https://sharad.tech" target="_blank">Sharad Kushwah</a></h3>
+<h3 align="center">नमस्कारम (Namaskaram), I am <a href="https://sharad.blog" target="_blank">Sharad Kushwah</a></h3>
 
 <img src="https://komarev.com/ghpvc/?username=thevueeguy&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" />
 
